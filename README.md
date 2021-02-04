@@ -1,4 +1,6 @@
-Hello, This is an empty react app, please clone and ensure the start scripts mentioned in package.json work.
+## Instructions for the test :
+ * This is an empty react app, please clone and ensure the start scripts mentioned in package.json work.
+ * Create a new branch feb-6-interview-pair, we will do the exercise in this branch.
 
 # Getting Started with Create React App
 
